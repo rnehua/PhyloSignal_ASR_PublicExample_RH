@@ -1,4 +1,2 @@
 # phylogenetic-signal-asr
-During my undergraduate research in the Rokas Lab at Vanderbilt University, I investigated the evolution of colony morphology across more than 1,000 yeast species using phylogenetic comparative methods and machine learning.
-
-Because those datasets and analyses are associated with ongoing research, this repository recreates the computational workflow using publicly available data while preserving the analytical methods.
+This repository demonstrates a comparative phylogenetics workflow I developed during my undergraduate research on yeast morphology and evolution at Vanderbilt University. To avoid sharing unpublished research data, the analysis uses the public BritishBirds dataset included in the caper R package.
